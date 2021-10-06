@@ -1,0 +1,8 @@
+*/*.test.js
+*/*.test.ts
+*/*.test.tsx
+*.css
+*.jpeg
+*.png
+/doc
+*/serviceWorker.js
